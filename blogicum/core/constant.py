@@ -1,0 +1,3 @@
+MAX_LENGTH = 256
+CUT_TO = 5
+PAG = 10
